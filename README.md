@@ -6,7 +6,7 @@ It's a website that has been designed to mimic the design of the popular Indian 
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://razorpay-clone-me.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -20,5 +20,5 @@ It's a website that has been designed to mimic the design of the popular Indian 
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Abhinav Jain](www.linkedin.com/in/abhinavj2)
+- **LinkedIn** - [Abhinav Jain](https://www.linkedin.com/in/abhinavj2)
 - **Twitter** - [@Abhinav54827639](https://twitter.com/Abhinav54827639)
